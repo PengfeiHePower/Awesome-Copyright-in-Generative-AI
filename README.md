@@ -1,0 +1,1 @@
+# Awesome-Copyright-in-Generative-AI
