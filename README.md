@@ -19,7 +19,7 @@ Including [Autoencoders](https://arxiv.org/abs/1312.6114), [GAN](https://arxiv.o
 
 <details>
 
-<summary> Disrupting Deepfakes: Adversarial Attacks Against Conditional Image Translation Networks and Facial Manipulation Systems [paper](https://arxiv.org/abs/2003.01279) </summary>
+<summary> Disrupting Deepfakes: Adversarial Attacks Against Conditional Image Translation Networks and Facial Manipulation Systems </summary>
 
     [[paper]](https://arxiv.org/abs/2003.01279)
 
