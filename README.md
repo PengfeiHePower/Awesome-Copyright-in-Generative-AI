@@ -119,7 +119,7 @@ Including [Autoencoders](https://arxiv.org/abs/1312.6114), [GAN](https://arxiv.o
 
 <details>
 
-<summary> _Towards prompt-robust face privacy protection via adversarial decoupling augmentation framework._  </summary>
+<summary> <i>Towards prompt-robust face privacy protection via adversarial decoupling augmentation framework.</i>  </summary>
 
 &nbsp;&nbsp;&nbsp;[[paper]](https://arxiv.org/abs/2305.03980)
 
