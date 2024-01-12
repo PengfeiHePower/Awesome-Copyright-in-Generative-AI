@@ -2,11 +2,11 @@
 
 A curated list of awesome works in Copyright Protection for Deep Generative Models.
 
-### Part 1. Image generative models. 
+## Part 1. Image generative models. 
 Including [Autoencoders](https://arxiv.org/abs/1312.6114), [GAN](https://arxiv.org/abs/1406.2661) and [Diffusion models](https://arxiv.org/abs/2006.11239).
-#### Source Data Owner Copyright Protection
+### Source Data Owner Copyright Protection
 
-##### Unrecognizable Examples
+#### Unrecognizable Examples
 <details>
 
 <summary> <i>UnGANable: Defending Against GAN-based Face Manipulation</i> </summary>
@@ -128,7 +128,7 @@ Including [Autoencoders](https://arxiv.org/abs/1312.6114), [GAN](https://arxiv.o
 </details>
 
 
-##### Watermarks
+#### Watermarks
 <details>
 
 <summary> <i>Diffusionshield: A watermark for copyright protection against generative diffusion models.</i>  </summary>
@@ -140,31 +140,31 @@ information...a joint optimization strategy is leveraged to optimize both the pi
 
 </details>
 
-##### Unlearning
+#### Unlearning
 
-#### Model Copyright Protection
+### Model Copyright Protection
 
-##### Parameter-based
+#### Parameter-based
 
-##### Image-based
+#### Image-based
 
-##### Trigger-based
+#### Trigger-based
 
-### Part 2. Text generative models.
+## Part 2. Text generative models.
 Specifically on Large Language Models (LLMs).
 
-#### Data Copyright Protection
+### Data Copyright Protection
 
-#### Model Copyright Protection
+### Model Copyright Protection
 
-### Other domains.
+## Other domains.
 
-#### Code generation
+### Code generation
 
-#### Graph generation
+### Graph generation
 
-#### Video generation
+### Video generation
 
-#### Audio generation
+### Audio generation
 
 
