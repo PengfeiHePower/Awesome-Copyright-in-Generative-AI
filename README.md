@@ -11,7 +11,7 @@ Including [Autoencoders](https://arxiv.org/abs/1312.6114), [GAN](https://arxiv.o
 
 <summary> UnGANable: Defending Against GAN-based Face Manipulation </summary>
 
-  [paper](https://arxiv.org/abs/2210.00957)
+  [[paper]](https://arxiv.org/abs/2210.00957)
 
   Against GAN Inversion; create adversarial examples to maximize the discrepancy between adversarial examples and original samples in the latent space of the generator.
 
