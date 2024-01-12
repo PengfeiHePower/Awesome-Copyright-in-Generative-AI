@@ -11,9 +11,18 @@ Including [Autoencoders](https://arxiv.org/abs/1312.6114), [GAN](https://arxiv.o
 
 <summary> UnGANable: Defending Against GAN-based Face Manipulation [paper](https://arxiv.org/abs/2210.00957) </summary>
 
-Against GAN Inversion
+Against GAN Inversion; create adversarial examples to maximize the discrepancy between adversarial examples and original samples in the latent space of the generator.
 
 </details>
+
+<details>
+
+<summary> Disrupting Deepfakes: Adversarial Attacks Against Conditional Image Translation Networks and Facial Manipulation Systems [paper](https://arxiv.org/abs/2003.01279) </summary>
+
+Against Image-translation GAN; create adversarial examples for the generator.
+
+</details>
+
 
 
 ##### Watermarks
