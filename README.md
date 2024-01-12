@@ -9,7 +9,7 @@ Including [Autoencoders](https://arxiv.org/abs/1312.6114), [GAN](https://arxiv.o
 ##### Unrecognizable Examples
 <details>
 <summary> 
-  
+
 UnGANable: Defending Against GAN-based Face Manipulation [paper](https://arxiv.org/abs/2210.00957)
 
 </summary>
