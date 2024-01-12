@@ -21,7 +21,7 @@ Including [Autoencoders](https://arxiv.org/abs/1312.6114), [GAN](https://arxiv.o
 
 <summary> Disrupting Deepfakes: Adversarial Attacks Against Conditional Image Translation Networks and Facial Manipulation Systems [paper](https://arxiv.org/abs/2003.01279) </summary>
 
-  [paper](https://arxiv.org/abs/2003.01279)
+  [[paper]](https://arxiv.org/abs/2003.01279)
 
   Against Image-translation GAN; create adversarial examples for the generator.
 
