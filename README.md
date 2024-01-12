@@ -8,18 +8,9 @@ Including [Autoencoders](https://arxiv.org/abs/1312.6114), [GAN](https://arxiv.o
 
 ##### Unrecognizable Examples
 <details>
-
-<summary>Tips for collapsed sections</summary>
-
-### You can add a header
-
-You can add text within a collapsed section. 
-
-You can add an image or a code block, too.
-
-```ruby
-   puts "Hello World"
-```
+<summary>[UnGANable: Defending Against GAN-based Face Manipulation](https://arxiv.org/abs/2210.00957)</summary>
+Against GAN Inversion
+</details>
 
 
 ##### Watermarks
