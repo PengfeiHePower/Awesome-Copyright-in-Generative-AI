@@ -27,6 +27,24 @@ Including [Autoencoders](https://arxiv.org/abs/1312.6114), [GAN](https://arxiv.o
 
 </details>
 
+<summary> Disrupting Image-Translation-Based DeepFake Algorithms with Adversarial Attacks </summary>
+
+&nbsp;&nbsp;&nbsp;[[paper]](https://openaccess.thecvf.com/content_WACVW_2020/papers/w4/Yeh_Disrupting_Image-Translation-Based_DeepFake_Algorithms_with_Adversarial_Attacks_WACVW_2020_paper.pdf)
+
+&nbsp;&nbsp;&nbsp;Against DeepNude; defining Nullifying Attack and Distorting Attack. 
+
+</details>
+
+</details>
+
+<summary> Initiative defense against facial manipulation </summary>
+
+&nbsp;&nbsp;&nbsp;[[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/16254)
+
+&nbsp;&nbsp;&nbsp;Grey-box and black-box adversarial examples.
+
+</details>
+
 
 
 ##### Watermarks
