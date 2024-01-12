@@ -128,11 +128,17 @@ Including [Autoencoders](https://arxiv.org/abs/1312.6114), [GAN](https://arxiv.o
 </details>
 
 
-
-
-
-
 ##### Watermarks
+<details>
+
+<summary> <i>Diffusionshield: A watermark for copyright protection against generative diffusion models.</i>  </summary>
+
+&nbsp;&nbsp;&nbsp;[[paper]](https://arxiv.org/abs/2306.04642)
+
+&nbsp;&nbsp;&nbsp; "...blockwise watermarks, as exemplified in Figure 9, are engineered to convey a greater amount of
+information...a joint optimization strategy is leveraged to optimize both the pixel values of watermark patches..."
+
+</details>
 
 ##### Unlearning
 
