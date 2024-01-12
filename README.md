@@ -47,6 +47,16 @@ Including [Autoencoders](https://arxiv.org/abs/1312.6114), [GAN](https://arxiv.o
 
 </details>
 
+<details>
+
+<summary> Adversarial example does good: Preventing painting imitation from diffusion models via adversarial examples </summary>
+
+&nbsp;&nbsp;&nbsp;[[paper]](https://arxiv.org/abs/2302.04578)
+
+&nbsp;&nbsp;&nbsp;Adversarial examples generated via training loss of Diffusion models.
+
+</details>
+
 
 
 ##### Watermarks
