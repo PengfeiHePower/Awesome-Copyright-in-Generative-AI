@@ -12,4 +12,29 @@ Including [Autoencoders](https://arxiv.org/abs/1312.6114), [GAN](https://arxiv.o
 
 ##### Unlearning
 
+#### Model Copyright Protection
+
+##### Parameter-based
+
+##### Image-based
+
+##### Trigger-based
+
+### Part 2. Text generative models.
+Specifically on Large Language Models (LLMs).
+
+#### Data Copyright Protection
+
+#### Model Copyright Protection
+
+### Other domains.
+
+#### Code generation
+
+#### Graph generation
+
+#### Video generation
+
+#### Audio generation
+
 
