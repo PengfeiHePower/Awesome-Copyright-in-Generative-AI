@@ -77,6 +77,26 @@ Including [Autoencoders](https://arxiv.org/abs/1312.6114), [GAN](https://arxiv.o
 
 </details>
 
+<details>
+
+<summary> Anti-Forgery: Towards a Stealthy and Robust DeepFake Disruption Attack via Adversarial Perceptual-aware Perturbations </summary>
+
+&nbsp;&nbsp;&nbsp;[[paper]](https://arxiv.org/abs/2206.00477)
+
+&nbsp;&nbsp;&nbsp; They observed that adversarial perturbations on the Lab color space are robust to input reconstruction. Therefore, they converted the input from RGB space to the Lab color space and added perceptual-aware adversarial perturbations to the color channel to maintain robustness against input transformations.
+
+</details>
+
+<details>
+
+<summary> Glaze: Protecting Artists from Style Mimicry by Text-to-Image Models </summary>
+
+&nbsp;&nbsp;&nbsp;[[paper]](https://arxiv.org/abs/2302.04222)
+
+&nbsp;&nbsp;&nbsp; The core idea of GLAZE is to guide the diffusion model to learn an alternative target style T that is totally different from the style of protected images
+
+</details>
+
 
 
 
