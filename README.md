@@ -11,9 +11,9 @@ Including [Autoencoders](https://arxiv.org/abs/1312.6114), [GAN](https://arxiv.o
 
 <summary> UnGANable: Defending Against GAN-based Face Manipulation </summary>
 
-&nbsp;&nbsp;&nbsp;&nbsp;[[paper]](https://arxiv.org/abs/2210.00957)
+&nbsp;&nbsp;&nbsp;[[paper]](https://arxiv.org/abs/2210.00957)
 
-&nbsp;&nbsp;&nbsp;&nbsp;Against GAN Inversion; create adversarial examples to maximize the discrepancy between adversarial examples and original samples in the latent space of the generator.
+&nbsp;&nbsp;&nbsp;Against GAN Inversion; create adversarial examples to maximize the discrepancy between adversarial examples and original samples in the latent space of the generator.
 
 </details>
 
@@ -21,9 +21,9 @@ Including [Autoencoders](https://arxiv.org/abs/1312.6114), [GAN](https://arxiv.o
 
 <summary> Disrupting Deepfakes: Adversarial Attacks Against Conditional Image Translation Networks and Facial Manipulation Systems </summary>
 
-&nbsp;&nbsp;&nbsp;&nbsp;[[paper]](https://arxiv.org/abs/2003.01279)
+&nbsp;&nbsp;&nbsp;[[paper]](https://arxiv.org/abs/2003.01279)
 
-&nbsp;&nbsp;&nbsp;&nbsp;Against Image-translation GAN; create adversarial examples for the generator.
+&nbsp;&nbsp;&nbsp;Against Image-translation GAN; create adversarial examples for the generator.
 
 </details>
 
