@@ -93,9 +93,38 @@ Including [Autoencoders](https://arxiv.org/abs/1312.6114), [GAN](https://arxiv.o
 
 &nbsp;&nbsp;&nbsp;[[paper]](https://arxiv.org/abs/2302.04222)
 
-&nbsp;&nbsp;&nbsp; The core idea of GLAZE is to guide the diffusion model to learn an alternative target style T that is totally different from the style of protected images
+&nbsp;&nbsp;&nbsp; The core idea of GLAZE is to guide the diffusion model to learn an alternative target style T that is totally different from the style of protected images.
 
 </details>
+
+<details>
+
+<summary> Mist: Towards improved adversarial examples for diffusion models. </summary>
+
+&nbsp;&nbsp;&nbsp;[[paper]](https://arxiv.org/abs/2305.12683)
+
+&nbsp;&nbsp;&nbsp; Improve the transferability of adversarial examples by combining different losses.
+
+</details>
+
+<details>
+
+<summary> Anti-dreambooth: Protecting users from personalized text-to-image synthesis. </summary>
+
+&nbsp;&nbsp;&nbsp;[[paper]](https://arxiv.org/abs/2303.15433)
+
+&nbsp;&nbsp;&nbsp; Against DreamBooth and generate poisons via a bi-level optimization problem.
+
+</details>
+
+<summary> Towards prompt-robust face privacy protection via adversarial decoupling augmentation framework.  </summary>
+
+&nbsp;&nbsp;&nbsp;[[paper]](https://arxiv.org/abs/2305.03980)
+
+&nbsp;&nbsp;&nbsp; Introduces multi-level text-related augmentations for defense stability against various attacker prompts
+
+</details>
+
 
 
 
