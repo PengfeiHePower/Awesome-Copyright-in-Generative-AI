@@ -157,7 +157,7 @@ Specifically on Large Language Models (LLMs).
 
 ### Model Copyright Protection
 
-## Other domains.
+## Part 3. Other domains.
 
 ### Code generation
 
