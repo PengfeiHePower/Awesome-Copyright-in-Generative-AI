@@ -49,7 +49,7 @@ Including [Autoencoders](https://arxiv.org/abs/1312.6114), [GAN](https://arxiv.o
 
 <details>
 
-<summary> Adversarial example does good: Preventing painting imitation from diffusion models via adversarial examples </summary>
+<summary> <i>Adversarial example does good: Preventing painting imitation from diffusion models via adversarial examples</i> </summary>
 
 &nbsp;&nbsp;&nbsp;[[paper]](https://arxiv.org/abs/2302.04578)
 
@@ -59,7 +59,7 @@ Including [Autoencoders](https://arxiv.org/abs/1312.6114), [GAN](https://arxiv.o
 
 <details>
 
-<summary> Raising the cost of malicious ai-powered image editing </summary>
+<summary> <i>Raising the cost of malicious ai-powered image editing</i> </summary>
 
 &nbsp;&nbsp;&nbsp;[[paper]](https://arxiv.org/abs/2302.04578)
 
@@ -69,7 +69,7 @@ Including [Autoencoders](https://arxiv.org/abs/1312.6114), [GAN](https://arxiv.o
 
 <details>
 
-<summary> Defending against gan-based deepfake attacks via transformation-aware ad- versarial faces </summary>
+<summary> <i>Defending against gan-based deepfake attacks via transformation-aware ad- versarial faces</i> </summary>
 
 &nbsp;&nbsp;&nbsp;[[paper]](https://arxiv.org/abs/2006.07421)
 
@@ -79,7 +79,7 @@ Including [Autoencoders](https://arxiv.org/abs/1312.6114), [GAN](https://arxiv.o
 
 <details>
 
-<summary> Anti-Forgery: Towards a Stealthy and Robust DeepFake Disruption Attack via Adversarial Perceptual-aware Perturbations </summary>
+<summary> <i>Anti-Forgery: Towards a Stealthy and Robust DeepFake Disruption Attack via Adversarial Perceptual-aware Perturbations</i> </summary>
 
 &nbsp;&nbsp;&nbsp;[[paper]](https://arxiv.org/abs/2206.00477)
 
@@ -89,7 +89,7 @@ Including [Autoencoders](https://arxiv.org/abs/1312.6114), [GAN](https://arxiv.o
 
 <details>
 
-<summary> Glaze: Protecting Artists from Style Mimicry by Text-to-Image Models </summary>
+<summary> <i>Glaze: Protecting Artists from Style Mimicry by Text-to-Image Models</i> </summary>
 
 &nbsp;&nbsp;&nbsp;[[paper]](https://arxiv.org/abs/2302.04222)
 
@@ -99,7 +99,7 @@ Including [Autoencoders](https://arxiv.org/abs/1312.6114), [GAN](https://arxiv.o
 
 <details>
 
-<summary> Mist: Towards improved adversarial examples for diffusion models. </summary>
+<summary> <i>Mist: Towards improved adversarial examples for diffusion models.</i> </summary>
 
 &nbsp;&nbsp;&nbsp;[[paper]](https://arxiv.org/abs/2305.12683)
 
@@ -109,7 +109,7 @@ Including [Autoencoders](https://arxiv.org/abs/1312.6114), [GAN](https://arxiv.o
 
 <details>
 
-<summary> Anti-dreambooth: Protecting users from personalized text-to-image synthesis. </summary>
+<summary> <i>Anti-dreambooth: Protecting users from personalized text-to-image synthesis.</i> </summary>
 
 &nbsp;&nbsp;&nbsp;[[paper]](https://arxiv.org/abs/2303.15433)
 
