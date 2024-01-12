@@ -57,6 +57,28 @@ Including [Autoencoders](https://arxiv.org/abs/1312.6114), [GAN](https://arxiv.o
 
 </details>
 
+<details>
+
+<summary> Raising the cost of malicious ai-powered image editing </summary>
+
+&nbsp;&nbsp;&nbsp;[[paper]](https://arxiv.org/abs/2302.04578)
+
+&nbsp;&nbsp;&nbsp; Encoder attack and Diffusion attack.
+
+</details>
+
+<details>
+
+<summary> Defending against gan-based deepfake attacks via transformation-aware ad- versarial faces </summary>
+
+&nbsp;&nbsp;&nbsp;[[paper]](https://arxiv.org/abs/2006.07421)
+
+&nbsp;&nbsp;&nbsp; Utilize adversarial examples against Deepfake models in training.
+
+</details>
+
+
+
 
 
 ##### Watermarks
