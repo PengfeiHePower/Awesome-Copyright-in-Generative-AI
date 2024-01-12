@@ -9,7 +9,7 @@ Including [Autoencoders](https://arxiv.org/abs/1312.6114), [GAN](https://arxiv.o
 ##### Unrecognizable Examples
 <details>
 
-<summary> UnGANable: Defending Against GAN-based Face Manipulation </summary>
+<summary> <i>UnGANable: Defending Against GAN-based Face Manipulation</i> </summary>
 
 &nbsp;&nbsp;&nbsp;[[paper]](https://arxiv.org/abs/2210.00957)
 
@@ -19,7 +19,7 @@ Including [Autoencoders](https://arxiv.org/abs/1312.6114), [GAN](https://arxiv.o
 
 <details>
 
-<summary> Disrupting Deepfakes: Adversarial Attacks Against Conditional Image Translation Networks and Facial Manipulation Systems </summary>
+<summary> <i>Disrupting Deepfakes: Adversarial Attacks Against Conditional Image Translation Networks and Facial Manipulation Systems</i> </summary>
 
 &nbsp;&nbsp;&nbsp;[[paper]](https://arxiv.org/abs/2003.01279)
 
@@ -29,7 +29,7 @@ Including [Autoencoders](https://arxiv.org/abs/1312.6114), [GAN](https://arxiv.o
 
 <details>
 
-<summary> Disrupting Image-Translation-Based DeepFake Algorithms with Adversarial Attacks </summary>
+<summary> <i>Disrupting Image-Translation-Based DeepFake Algorithms with Adversarial Attacks</i> </summary>
 
 &nbsp;&nbsp;&nbsp;[[paper]](https://openaccess.thecvf.com/content_WACVW_2020/papers/w4/Yeh_Disrupting_Image-Translation-Based_DeepFake_Algorithms_with_Adversarial_Attacks_WACVW_2020_paper.pdf)
 
@@ -39,7 +39,7 @@ Including [Autoencoders](https://arxiv.org/abs/1312.6114), [GAN](https://arxiv.o
 
 <details>
 
-<summary> Initiative defense against facial manipulation </summary>
+<summary> <i>Initiative defense against facial manipulation</i> </summary>
 
 &nbsp;&nbsp;&nbsp;[[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/16254)
 
