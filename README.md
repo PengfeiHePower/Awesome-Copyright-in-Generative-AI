@@ -25,9 +25,9 @@ Including [Autoencoders](https://arxiv.org/abs/1312.6114), [GAN](https://arxiv.o
 
 &nbsp;&nbsp;&nbsp;Against Image-translation GAN; create adversarial examples for the generator.
 
-<details>
-
 </details>
+
+<details>
 
 <summary> Disrupting Image-Translation-Based DeepFake Algorithms with Adversarial Attacks </summary>
 
@@ -37,7 +37,7 @@ Including [Autoencoders](https://arxiv.org/abs/1312.6114), [GAN](https://arxiv.o
 
 </details>
 
-</details>
+<details>
 
 <summary> Initiative defense against facial manipulation </summary>
 
