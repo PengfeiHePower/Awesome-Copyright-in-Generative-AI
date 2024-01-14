@@ -7,6 +7,7 @@ Including [Autoencoders](https://arxiv.org/abs/1312.6114), [GAN](https://arxiv.o
 ### Source Data Owner Copyright Protection
 
 #### Unrecognizable Examples
+Add perturbations to the original data such that model will not learn important information from the protected data.
 <details>
 
 <summary> <i>UnGANable: Defending Against GAN-based Face Manipulation</i> </summary>
@@ -172,6 +173,19 @@ els.</i>  </summary>
 </details>
 
 #### Unlearning
+
+Unlearn copyrighted data from the trained model.
+
+<details>
+
+<summary> <i>Ft-shield: A watermark against unauthorized fine-tuning in text-to-image diffusion mod-
+els.</i>  </summary>
+
+&nbsp;&nbsp;&nbsp;[[paper]](https://arxiv.org/abs/2310.02401)
+
+&nbsp;&nbsp;&nbsp; A watermarking method against fine-tuning latent diffusion models.
+
+</details>
 
 ### Model Copyright Protection
 
