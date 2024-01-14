@@ -150,6 +150,27 @@ information...a joint optimization strategy is leveraged to optimize both the pi
 
 </details>
 
+<details>
+
+<summary> <i>How to detect unauthorized data usages in text-to-image diffusion models.</i>  </summary>
+
+&nbsp;&nbsp;&nbsp;[[paper]](https://arxiv.org/abs/2307.03108)
+
+&nbsp;&nbsp;&nbsp; A model-agnoistic watermarking through image warpping transformation.
+
+</details>
+
+<details>
+
+<summary> <i>Ft-shield: A watermark against unauthorized fine-tuning in text-to-image diffusion mod-
+els.</i>  </summary>
+
+&nbsp;&nbsp;&nbsp;[[paper]](https://arxiv.org/abs/2310.02401)
+
+&nbsp;&nbsp;&nbsp; A watermarking method against fine-tuning latent diffusion models.
+
+</details>
+
 #### Unlearning
 
 ### Model Copyright Protection
