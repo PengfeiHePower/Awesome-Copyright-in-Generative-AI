@@ -140,6 +140,16 @@ information...a joint optimization strategy is leveraged to optimize both the pi
 
 </details>
 
+<details>
+
+<summary> <i>Generative Watermarking Against Unauthorized Subject-Driven Image Synthesis.</i>  </summary>
+
+&nbsp;&nbsp;&nbsp;[[paper]](https://arxiv.org/abs/2306.07754)
+
+&nbsp;&nbsp;&nbsp; "...Specifically, we propose GenWatermark, a novel watermark system based on jointly learning a watermark generator and a detector"
+
+</details>
+
 #### Unlearning
 
 ### Model Copyright Protection
