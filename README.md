@@ -163,8 +163,7 @@ information...a joint optimization strategy is leveraged to optimize both the pi
 
 <details>
 
-<summary> <i>Ft-shield: A watermark against unauthorized fine-tuning in text-to-image diffusion mod-
-els.</i>  </summary>
+<summary> <i>Ft-shield: A watermark against unauthorized fine-tuning in text-to-image diffusion models.</i>  </summary>
 
 &nbsp;&nbsp;&nbsp;[[paper]](https://arxiv.org/abs/2310.02401)
 
