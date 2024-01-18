@@ -194,6 +194,23 @@ models.</i>  </summary>
 
 </details>
 
+<details>
+
+<summary> <i>Ablating concepts in text-to-image dif-
+fusion models.</i>  </summary>
+
+&nbsp;&nbsp;&nbsp;[[paper]](https://arxiv.org/abs/2303.13516)
+
+</details>
+
+<details>
+
+<summary> <i>Erasing Concepts from Diffusion Models.</i>  </summary>
+
+&nbsp;&nbsp;&nbsp;[[paper]](https://arxiv.org/abs/2303.07345)
+
+</details>
+
 ### Model Copyright Protection
 
 #### Parameter-based
