@@ -367,13 +367,15 @@ generative adversarial network.</i>  </summary>
 
 </details>
 
+<details>
+
 <summary> <i>Watermarking diffusion model. </i>  </summary>
 
 &nbsp;&nbsp;&nbsp;[[paper]](https://arxiv.org/abs/2305.12502)
 
 </details>
 
-</details>
+<details>
 
 <summary> <i>Protecting the
 intellectual property of diffusion models by the water-
