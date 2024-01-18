@@ -297,7 +297,92 @@ human visual system.</i>  </summary>
 
 </details>
 
+<details>
+
+<summary> <i>The Stable Signature: Rooting Watermarks in Latent Diffusion Models
+.</i>  </summary>
+
+&nbsp;&nbsp;&nbsp;[[paper]](https://arxiv.org/abs/2303.15435)
+
+</details>
+
+<details>
+
+<summary> <i>Artificial Fingerprinting for Generative Models: Rooting Deepfake Attribution in Training Data
+.</i>  </summary>
+
+&nbsp;&nbsp;&nbsp;[[paper]](https://arxiv.org/abs/2007.08457)
+
+</details>
+
+<details>
+
+<summary> <i>A recipe for watermarking diffusion models.
+.</i>  </summary>
+
+&nbsp;&nbsp;&nbsp;[[paper]](https://arxiv.org/abs/2303.10137)
+
+</details>
+
+<details>
+
+<summary> <i>Tree-ring watermarks: Fingerprints for diffusion
+images that are invisible and robust.
+.</i>  </summary>
+
+&nbsp;&nbsp;&nbsp;[[paper]](https://arxiv.org/abs/2305.20030)
+
+</details>
+
+<details>
+
+<summary> <i>Attributing image
+generative models using latent fingerprints.
+</i>  </summary>
+
+&nbsp;&nbsp;&nbsp;[[paper]](https://arxiv.org/abs/2304.09752)
+
+</details>
+
 #### Trigger-based
+Secretly incorporates a trigger to the protected model
+such that an image with copyright information will be
+generated once the trigger is activated
+
+<details>
+
+<summary> <i>Protecting intellectual property of generative adversarial
+networks from ambiguity attacks.</i>  </summary>
+
+&nbsp;&nbsp;&nbsp;[[paper]](https://arxiv.org/abs/2102.04362)
+
+</details>
+
+<details>
+
+<summary> <i>A novel model watermarking for protecting
+generative adversarial network.</i>  </summary>
+
+&nbsp;&nbsp;&nbsp;[[paper]](https://www.sciencedirect.com/science/article/pii/S0167404823000123)
+
+</details>
+
+<summary> <i>Watermarking diffusion model. </i>  </summary>
+
+&nbsp;&nbsp;&nbsp;[[paper]](https://arxiv.org/abs/2305.12502)
+
+</details>
+
+</details>
+
+<summary> <i>Protecting the
+intellectual property of diffusion models by the water-
+mark diffusion process. </i>  </summary>
+
+&nbsp;&nbsp;&nbsp;[[paper]](https://arxiv.org/abs/2306.03436)
+
+</details>
+
 
 ## Part 2. Text generative models.
 Specifically on Large Language Models (LLMs).
