@@ -5,6 +5,7 @@ A curated list of awesome works in Copyright Protection for Deep Generative Mode
 ## Part 1. Image generative models. 
 Including [Autoencoders](https://arxiv.org/abs/1312.6114), [GAN](https://arxiv.org/abs/1406.2661) and [Diffusion models](https://arxiv.org/abs/2006.11239).
 ### Source Data Owner Copyright Protection
+Protect the copyright of data, and prevent unauthorized usage of these data in generative models.
 
 #### Unrecognizable Examples
 Add perturbations to the original data such that model will not learn important information from the protected data.
@@ -177,12 +178,19 @@ Unlearn copyrighted data from the trained model.
 
 <details>
 
-<summary> <i>Ft-shield: A watermark against unauthorized fine-tuning in text-to-image diffusion mod-
-els.</i>  </summary>
+<summary> <i>Forget-
+me-not: Learning to forget in text-to-image diffusion
+models.</i>  </summary>
 
-&nbsp;&nbsp;&nbsp;[[paper]](https://arxiv.org/abs/2310.02401)
+&nbsp;&nbsp;&nbsp;[[paper]](https://arxiv.org/abs/2303.17591)
 
-&nbsp;&nbsp;&nbsp; A watermarking method against fine-tuning latent diffusion models.
+</details>
+
+<details>
+
+<summary> <i>Data redaction from pre-trained gans.</i>  </summary>
+
+&nbsp;&nbsp;&nbsp;[[paper]](https://arxiv.org/abs/2206.14389)
 
 </details>
 
